@@ -62,7 +62,7 @@ def scanlicense(img_path):
     # ================
 
     # AZURE key endpoint
-    key = "d620bc8b73ad4e6aad0c28034e70adb3"
+    key = ""                              ## 需要自行取得金鑰
     region = 'westus2'
     endpoint = 'https://aienvision.cognitiveservices.azure.com/'
 
