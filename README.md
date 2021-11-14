@@ -3,4 +3,4 @@ Optical Character Recognition
 
 
 opencv_license.py  圖片預處理  
-訓練好的yolo模型https://drive.google.com/drive/folders/1YjuJJA9sXQPqUq42hjCx8Tn5y2tnyeTI?usp=sharing
+https://drive.google.com/drive/folders/1YjuJJA9sXQPqUq42hjCx8Tn5y2tnyeTI?usp=sharing 訓練好的yolo模型
