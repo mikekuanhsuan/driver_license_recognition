@@ -71,7 +71,6 @@ def detectlicense(img_path):
     return imagepath
 
 if __name__=="__main__":
-    # img_path = "http://175.41.168.73:3000/uploads/29008f08-dd39-410e-89b8-6d717eadc1fd.jpeg"
     img_path = "001.jpeg"
 
     xxx = detectlicense(img_path)
